@@ -1,0 +1,7 @@
+anytree
+streamlit
+sentence-transformers
+nltk
+PyPDF2
+transformers
+sentencepiece
